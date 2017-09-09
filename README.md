@@ -5,13 +5,13 @@ This repository contains joint embeddings of selectional preferences, words, and
 
 Download the embeddings here:
 
-[lemmatized, basicDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPZGRMZUVFYUZkR2s)
-[lemmatized, enhancedDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPTkF0dmswNEttQXM)
-[lemmatized, enhancedPlusPlusDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPc2xoNWxSaUZpVkU)
+* [lemmatized, basicDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPZGRMZUVFYUZkR2s)
+* [lemmatized, enhancedDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPTkF0dmswNEttQXM)
+* [lemmatized, enhancedPlusPlusDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPc2xoNWxSaUZpVkU)
 
-[unlemmatized, basicDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPVEFEbXRTaHR1b28)
-[unlemmatized, enhancedDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPZkc0U21oRmpsTEE)
-[unlemmatized, enhancedPlusPlusDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPcmt3Zm52UWJMQWM)
+* [unlemmatized, basicDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPVEFEbXRTaHR1b28)
+* [unlemmatized, enhancedDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPZkc0U21oRmpsTEE)
+* [unlemmatized, enhancedPlusPlusDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPcmt3Zm52UWJMQWM)
 
 These are in the gensim model format, which can be loaded in Python like this:
 
