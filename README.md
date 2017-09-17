@@ -3,7 +3,7 @@ Selectional Preference Embeddings (EMNLP 2017)
 
 This repository contains joint embeddings of selectional preferences, words, and fine-grained entity types.
 
-Download the embeddings here:
+# Download
 
 * [lemmatized, basicDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPZGRMZUVFYUZkR2s)
 * [lemmatized, enhancedDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPTkF0dmswNEttQXM)
@@ -13,7 +13,9 @@ Download the embeddings here:
 * [unlemmatized, enhancedDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPZkc0U21oRmpsTEE)
 * [unlemmatized, enhancedPlusPlusDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPcmt3Zm52UWJMQWM)
 
-These are in the gensim model format, which can be loaded in Python like this:
+# Usage
+
+The files are in gensim model format, which can be loaded in Python like this:
 
 ```python
 from gensim.models import KeyedVectors
@@ -27,3 +29,20 @@ The vocabulary consists of:
 - verbs and their dependency governor separated by "@", e.g. "sink@nsubj" or "elect@dobj"
 - words and short noun phrases, e.g. "Titanic"
 - fine-grained entity types using the FIGER inventory, e.g.: /product/ship or /person/politician
+
+# Reference
+
+```bibtex
+@InProceedings{D17-1139,
+  author = 	"Heinzerling, Benjamin
+		and Moosavi, Nafise Sadat
+		and Strube, Michael",
+  title = 	"Revisiting Selectional Preferences for Coreference Resolution",
+  booktitle = 	"Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing",
+  year = 	"2017",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"1343--1350",
+  location = 	"Copenhagen, Denmark",
+  url = 	"http://aclweb.org/anthology/D17-1139"
+}
+```
