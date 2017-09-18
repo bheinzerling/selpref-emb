@@ -15,7 +15,7 @@ This repository contains joint embeddings of selectional preferences, words, and
 
 # Usage
 
-The files are in gensim model format, which can be loaded in Python like this:
+The files are in [gensim](https://github.com/RaRe-Technologies/gensim) model format, which can be loaded in Python like this:
 
 ```python
 from gensim.models import KeyedVectors
