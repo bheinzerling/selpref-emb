@@ -28,7 +28,7 @@ The vocabulary consists of:
 
 - verbs and their dependency governor separated by "@", e.g. "sink@nsubj" or "elect@dobj"
 - words and short noun phrases, e.g. "Titanic"
-- fine-grained entity types using the FIGER inventory, e.g.: /product/ship or /person/politician
+- fine-grained entity types using the [FIGER](http://aiweb.cs.washington.edu/ai/pubs/ling-aaai12.pdf) inventory, e.g.: /product/ship or /person/politician
 
 # Reference
 
