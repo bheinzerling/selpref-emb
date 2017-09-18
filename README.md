@@ -20,7 +20,7 @@ The files are in [gensim](https://github.com/RaRe-Technologies/gensim) model for
 ```python
 from gensim.models import KeyedVectors
 
-emb_file = "/path/to/model_file"
+emb_file = "/path/to/embedding_file"
 emb = KeyedVectors.load_word2vec_format(emb_file, binary=True)
 ```
 
