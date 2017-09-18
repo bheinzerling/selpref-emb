@@ -20,8 +20,8 @@ The files are in [gensim](https://github.com/RaRe-Technologies/gensim) model for
 ```python
 from gensim.models import KeyedVectors
 
-model_file = "/path/to/model_file"
-KeyedVectors.load_word2vec_format(model_file, binary=True)
+emb_file = "/path/to/model_file"
+emb = KeyedVectors.load_word2vec_format(emb_file, binary=True)
 ```
 
 The vocabulary consists of:
