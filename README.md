@@ -1,5 +1,5 @@
 # selpref-emb
-Selectional Preference Embeddings (EMNLP 2017)
+Selectional Preference Embeddings ([EMNLP 2017](http://aclweb.org/anthology/D17-1139))
 
 This repository contains joint embeddings of selectional preferences, words, and fine-grained entity types.
 
