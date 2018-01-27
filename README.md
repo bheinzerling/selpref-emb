@@ -26,7 +26,7 @@ emb = KeyedVectors.load_word2vec_format(emb_file, binary=True)
 
 The vocabulary consists of:
 
-- verbs and the dependency relation to their governor separated by "@", e.g. "sink@nsubj" or "elect@dobj"
+- verbs and their dependency relation separated by "@", e.g. "sink@nsubj" or "elect@dobj"
 - words and short noun phrases, e.g. "Titanic"
 - fine-grained entity types using the [FIGER](http://aiweb.cs.washington.edu/ai/pubs/ling-aaai12.pdf) inventory, e.g.: /product/ship or /person/politician
 
