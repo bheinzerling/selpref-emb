@@ -1,5 +1,5 @@
 # selpref-emb
-Selectional Preference Embeddings ([EMNLP 2017](http://aclweb.org/anthology/D17-1139))
+Selectional Preference Embeddings ([EMNLP 2017](http://aclweb.org/anthology/D17-1138))
 
 This repository contains joint embeddings of selectional preferences, words, and fine-grained entity types.
 
@@ -33,7 +33,7 @@ The vocabulary consists of:
 # Reference
 
 ```bibtex
-@InProceedings{D17-1139,
+@InProceedings{D17-1138,
   author = 	"Heinzerling, Benjamin
 		and Moosavi, Nafise Sadat
 		and Strube, Michael",
@@ -43,6 +43,6 @@ The vocabulary consists of:
   publisher = 	"Association for Computational Linguistics",
   pages = 	"1343--1350",
   location = 	"Copenhagen, Denmark",
-  url = 	"http://aclweb.org/anthology/D17-1139"
+  url = 	"http://aclweb.org/anthology/D17-1138"
 }
 ```
