@@ -30,6 +30,8 @@ The vocabulary consists of:
 - words and short noun phrases, e.g. "Titanic"
 - fine-grained entity types using the [FIGER](http://aiweb.cs.washington.edu/ai/pubs/ling-aaai12.pdf) inventory, e.g.: /product/ship or /person/politician
 
+![UMAP visualization](umap_visualization.png)
+
 # Reference
 
 ```bibtex
