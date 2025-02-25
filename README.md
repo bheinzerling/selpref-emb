@@ -5,13 +5,11 @@ This repository contains joint embeddings of selectional preferences, words, and
 
 # Download
 
-* [lemmatized, basicDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPZGRMZUVFYUZkR2s)
-* [lemmatized, enhancedDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPTkF0dmswNEttQXM)
-* [lemmatized, enhancedPlusPlusDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPc2xoNWxSaUZpVkU)
+* [lemmatized, basicDependencies](https://drive.google.com/file/d/0B5Gn0zIax9GPZGRMZUVFYUZkR2s/view?usp=sharing&resourcekey=0-7flrhN7TF2TaF2DHjYRDWA)
+* [lemmatized, enhancedDependencies](https://drive.google.com/file/d/0B5Gn0zIax9GPTkF0dmswNEttQXM/view?usp=sharing&resourcekey=0-zKCxfoocmT5U12fl0BFkSw)
+* [lemmatized, enhancedPlusPlusDependencies](https://drive.google.com/file/d/0B5Gn0zIax9GPc2xoNWxSaUZpVkU/view?usp=sharing&resourcekey=0-Weo0VZg0tWnjmR2O0zPUDA)
 
-* [unlemmatized, basicDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPVEFEbXRTaHR1b28)
-* [unlemmatized, enhancedDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPZkc0U21oRmpsTEE)
-* [unlemmatized, enhancedPlusPlusDependencies](https://drive.google.com/open?id=0B5Gn0zIax9GPcmt3Zm52UWJMQWM)
+* [unlemmatized, basicDependencies](https://drive.google.com/file/d/0B5Gn0zIax9GPVEFEbXRTaHR1b28/view?usp=sharing&resourcekey=0-zL-K_V61ueNTidqNINj92w)
 
 # Usage
 
